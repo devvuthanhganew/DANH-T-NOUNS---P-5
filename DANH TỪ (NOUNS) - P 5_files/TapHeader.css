@@ -1,0 +1,69 @@
+﻿.TopGroup
+{
+  z-index:99;
+  
+	  
+}
+
+.DefaultTabH
+{
+	
+	  
+	 border: 0px solid #ffffff;
+ background-image:url(../Images/tap/hover_tab_bg.gif);
+ background-color:#dfdfdf;
+	color:#ffffff;
+  
+  cursor:pointer;
+}
+.DefaultTabHoverH
+{ 
+	  
+	border: 0px solid #fffffff;
+ background-image:url(../Images/tap/bg_Hover_Tap.jpg);
+ background-color:#dfdfdf;
+	color:#ffffff;
+
+ font-weight:bold;
+  cursor:pointer;
+}
+.SelectedTabH
+{
+	  
+color:#dfdfdf;
+  background-image:url(../Images/tap/bg_Hover_Tap.gif);
+  background-color:#DDDDDD;
+font-weight:bold;
+ 
+  cursor:default;
+}
+
+
+
+.Level2Tab
+{
+  color: #2c79b3; 
+  font-family: verdana; 
+  font-size:11px; 
+  cursor:pointer;
+}
+
+.Level2TabHover
+{
+  color: #a1be57; 
+  font-family: verdana; 
+  font-size:11px; 
+  text-decoration:underline;
+  cursor:pointer;
+}
+
+.SelectedLevel2Tab
+{
+  color: #a1be57; 
+  background-color: white;
+  font-family: verdana; 
+  font-size:11px; 
+  position:relative;
+ 
+  cursor:default;
+}

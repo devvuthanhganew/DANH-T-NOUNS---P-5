@@ -1,0 +1,61 @@
+﻿.TopGroup
+{
+  z-index:99;
+  
+	  
+}
+
+.DefaultTabNews
+{
+	
+	  
+	 border: 0px solid #ffffff;
+ background-image:url(../Images/tap/hover_tab_bg.jpg);
+ background-color:#dfdfdf;
+	color:#015300;
+  font-weight:bold;
+  cursor:pointer;
+}
+.DefaultTabHoverNews
+{ 
+	  
+	border: 0px solid #fffffff;
+ background-image:url(../Images/tap/hover_tab_bg.jpg);
+ background-color:#dfdfdf;
+	color:#015300;
+ font-weight:bold;
+  cursor:pointer;
+}
+.SelectedTabNews
+{
+	  
+color:red;
+  background-image:url(../Images/tap/select_tab_bg.jpg);
+  background-color:#DDDDDD;
+
+ font-weight:bold;
+  cursor:default;
+}
+
+
+
+.MultiPageOutterFrame
+{
+ 
+
+  background-color: #ffffff;
+  border: 1px solid #a5b5bf;
+  z-index :98;
+   margin-top:-3px;
+}
+
+.MultiPage
+{
+	  
+  
+  width: 100%;
+  height: 100%; 
+}
+
+
+

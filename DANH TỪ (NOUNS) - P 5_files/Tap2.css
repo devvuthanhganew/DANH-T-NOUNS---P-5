@@ -1,0 +1,45 @@
+﻿.TopGroup
+{
+  z-index:99;
+  
+	  
+}
+
+.DefaultTabTap2
+{
+	
+	  
+	 border: 0px solid #ffffff;
+ background-image:url(../Images/tap2/bg_select.gif);
+ background-color:#21346e;
+	color:#ffffff;
+	font-size:15px;
+  font-weight:bold;
+  cursor:pointer;
+}
+.DefaultTabHoverTap2
+{ 
+	  font-size:15px;
+	border: 0px solid #fffffff;
+ background-image:url(../Images/tap2/bg.gif);
+ background-color:#21346e;
+	color:#21346e;
+ font-weight:bold;
+  cursor:pointer;
+}
+.SelectedTabTap2
+{font-size:15px;
+	  
+color:#21346e;
+  background-image:url(../Images/tap2/bg.gif);
+  background-color:#ffffff;
+
+ font-weight:bold;
+  cursor:default;
+}
+
+
+
+
+
+
